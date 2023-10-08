@@ -45,11 +45,11 @@
     position: absolute;
     left: 10%;
     right: 10%;
-    background-color: #c0c0c0;
+    background-color: #d4d4d4;
 }
 
 .bodier{
-    background-color: #bbbbbb;
+    background-color: #dcdcdc;
 }
 
 @media screen  and (max-width:550px){
